@@ -7,7 +7,12 @@ comments: true
 menu: 关于
 permalink: /about/
 ---
+> God, tell us the reason youth is wasted on the young
 
+>It's hunting season and the lambs are on the run
+Searching for meaning
+
+>But are we all lost stars, trying to light up the dark?
 
 
 ## 联系
