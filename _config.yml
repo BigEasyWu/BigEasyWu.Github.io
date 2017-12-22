@@ -5,10 +5,10 @@ baseurl:
 url: http://bigeasywu.today
 date_format: "ordinal"
 title: bigeasyblog
-subtitle: "Hello BigEasyWorld"
+subtitle: "Hello World"
 description: "bigeasyblog"
 keywords: 吴炳奎, Bingkui Wu, bigeasywu
-timezone: Asia/Anshun
+timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
