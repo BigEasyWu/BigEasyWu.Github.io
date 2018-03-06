@@ -8,7 +8,7 @@ keywords: Linux
 
 梳理 Linux 中文件权限与目录权限的区别
 
-> 权限的本质是管理 U(user) G(group) O(other) 对目录或文件 Block块的资格
+> 权限的本质是管理 U(user) G(group) O(other) 对目录或文件 Block 块的资格
 # 文件权限
 
 ### r 权限
